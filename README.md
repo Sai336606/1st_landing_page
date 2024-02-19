@@ -1,2 +1,1 @@
-# 1st_landing_page
-HTML &amp; CSS(responsive)
+I'm again jumping back into modern front-end design, trying to catch up with all the new stuff. It feels like chasing after a speedy train while still figuring out how to ride a bike! 🚀💻 #ReLearningFrontEnd
